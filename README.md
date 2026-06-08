@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:1F6FEB,100:0D1117&text=Tira-Teima&fontColor=F0F6FC&fontSize=50&fontAlignY=38&desc=Replay%20instant%C3%A2neo%20de%20quadra%20direto%20do%20navegador&descAlignY=60&descSize=16" alt="Banner Tira-Teima" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:DC2626,100:0D1117&text=Tira-Teima&fontColor=F0F6FC&fontSize=50&fontAlignY=38&desc=Replay%20instant%C3%A2neo%20de%20quadra%20direto%20do%20navegador&descAlignY=60&descSize=16" alt="Banner Tira-Teima" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/100%25_Local-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="100% Local" />
+  <img src="https://img.shields.io/badge/100%25_Local-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="100% Local" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Replay+instant%C3%A2neo+direto+do+navegador;A+c%C3%A2mera+grava+continuamente+em+loop;Salve+os+melhores+lances+com+um+toque;100%25+no+dispositivo%2C+sem+backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Replay+instant%C3%A2neo+direto+do+navegador;A+c%C3%A2mera+grava+continuamente+em+loop;Salve+os+melhores+lances+com+um+toque;100%25+no+dispositivo%2C+sem+backend" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +31,8 @@ Tudo é armazenado em uma **galeria local (IndexedDB)** — sem login, sem backe
 
 <br />
 <p align="center">
-  <img src="https://img.shields.io/badge/Local_First-100%25-21262D?style=flat-square&logo=cachet&logoColor=58A6FF" alt="Local First" />
-  <img src="https://img.shields.io/badge/Esportes-Quadra-21262D?style=flat-square&logo=nintendoswitch&logoColor=58A6FF" alt="Esportes" />
+  <img src="https://img.shields.io/badge/Local_First-100%25-21262D?style=flat-square&logo=cachet&logoColor=EF4444" alt="Local First" />
+  <img src="https://img.shields.io/badge/Esportes-Quadra-21262D?style=flat-square&logo=nintendoswitch&logoColor=EF4444" alt="Esportes" />
 </p>
 
 </td>
@@ -75,7 +75,7 @@ const tiraTeima = {
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_16_App_Router-21262D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-21262D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Web_APIs_Nativas-1F6FEB?style=for-the-badge&logo=w3c&logoColor=white" alt="Web APIs" />
+  <img src="https://img.shields.io/badge/Web_APIs_Nativas-DC2626?style=for-the-badge&logo=w3c&logoColor=white" alt="Web APIs" />
 </p>
 
 ---
@@ -161,5 +161,5 @@ src/
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:1F6FEB,100:0D1117" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:DC2626,100:0D1117" alt="Footer" />
 </p>
